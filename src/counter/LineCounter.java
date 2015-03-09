@@ -10,7 +10,7 @@ import java.util.List;
  * **********************************************
  * @description count lines of texts, Not count the blank line
  *     			get all the files of the index path
- * @author yuanzichao
+ * @author yuan
  * @date 2015-03-09   16:44:33
  ***********************************************
  */
